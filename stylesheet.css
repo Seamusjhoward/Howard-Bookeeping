@@ -1,0 +1,29 @@
+.body{
+	background-color: #595959;
+}
+.nav {
+  background-color: #505;
+  color: #fff;
+  list-style: none;
+  text-align: right;
+  padding: 20px 0 0 0;
+    font-size: 20px;
+}
+.nav > li {
+  display: inline-block;
+  color: #fff;
+  padding-right: 15px;
+  font-size: 14px;
+  padding: 0 15px 0 15px;
+}
+.nav > li > a{
+  text-decoration: none;
+  color: #fff;
+}
+.nav > li > a:hover {
+  color: #000;
+}
+.logo{
+  float: left;
+  margin-top: -15px;
+}

@@ -1,6 +1,9 @@
 .body{
 	background-color: #595959;
 }
+#container{
+  margin: 0 auto 0 auto;
+}
 .nav {
   background-color: #505;
   color: #fff;
@@ -8,6 +11,9 @@
   text-align: right;
   padding: 20px 0 0 0;
     font-size: 20px;
+}
+#nav{
+
 }
 .nav > li {
   display: inline-block;
@@ -25,5 +31,17 @@
 }
 .logo{
   float: left;
-  margin-top: -15px;
+  margin-top: -5px;
+}
+.wall-left{
+    background-color: #fff;
+    padding-bottom: 600px;
+}
+.wall-right{
+        background-color: #fff;  
+        padding-bottom: 600px;
+}
+.content{
+	background-color: #E4F9D3;
+	padding-bottom: 600px;
 }

@@ -1,5 +1,5 @@
-.body{
-	background-color: #595959;
+body{
+background-color: #595959;
 }
 #container{
   margin: 0 auto 0 auto;
@@ -32,6 +32,7 @@
 .logo{
   float: left;
   margin-top: -5px;
+  width: 200px;
 }
 .wall-left{
     background-color: #fff;
@@ -42,6 +43,10 @@
         padding-bottom: 600px;
 }
 .content{
-	background-color: #E4F9D3;
+	background-color: #fff;,#E4F9D3;
 	padding-bottom: 600px;
+}
+.column-text{
+	text-align: center;
+	color: #fff;
 }
